@@ -1,0 +1,31 @@
+{
+  "name": "todo-redux",
+  "version": "1.0.0",
+  "description": "todo redux tutorial",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "jest"
+  },
+  "repository": {},
+  "author": "Jorge Herrera <jorge.herrera.cabrera@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.22.1",
+    "babel-jest": "^18.0.0",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-transform-object-rest-spread": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "jest": "^18.1.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  }
+}
